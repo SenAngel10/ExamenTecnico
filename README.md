@@ -21,6 +21,8 @@ pnpm install
 pnpm run dev
 ```
 Corre en `http://localhost:5173`
+UI VISUAL DE TODOS LOS ENDPOINTS
+http://localhost:8080/swagger-ui.html 
 
 YAML OPENAPI
 http://localhost:8080/v3/api-docs.yaml
