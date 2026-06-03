@@ -1,0 +1,39 @@
+{
+  "statusCode": 200,
+  "message": "Ok",
+  "data": [
+    {
+      "numeroControl": 1001,
+      "nombre": "Juan Perez",
+      "email": "juan@mail.com",
+      "direccion": {
+        "calle": "Calle Reforma",
+        "colonia": "Centro",
+        "ciudad": "CDMX"
+      },
+      "telefono": "5551234567"
+    },
+    {
+      "numeroControl": 1002,
+      "nombre": "Maria l.",
+      "email": "maria@mail.com",
+      "direccion": {
+        "calle": "Avenida Juarez",
+        "colonia": "Polanco",
+        "ciudad": "CDMX"
+      },
+      "telefono": "5557654321"
+    },
+    {
+      "numeroControl": 1003,
+      "nombre": "Carlos Garcia",
+      "email": "carlos@mail.com",
+      "direccion": {
+        "calle": "Calle 5 de Mayo",
+        "colonia": "Narvarte",
+        "ciudad": "CDMX"
+      },
+      "telefono": "5559876543"
+    }
+  ]
+}
